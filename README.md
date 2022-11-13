@@ -1,6 +1,6 @@
 # react-select-with-formik-single-and-multi
 
-### `npm install`
+### `npm install react-select`
 
 # usage:
 ## for Single Selection
